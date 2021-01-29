@@ -28,3 +28,6 @@
 
 # docker
 /.docker-sync
+
+# setting
+/.vscode
